@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,hdpt.xyz
+DOMAIN-SUFFIX,nowhots.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -60,6 +61,7 @@ DOMAIN-KEYWORD,pttime
 DOMAIN-KEYWORD,lemonhd
 DOMAIN-KEYWORD,52pt
 DOMAIN-KEYWORD,hdpt
+DOMAIN-KEYWORD,nowhots
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
